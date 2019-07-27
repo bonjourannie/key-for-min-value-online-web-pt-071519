@@ -3,5 +3,5 @@
 
 def key_for_min_value(name_hash)
   name_hasg.collect do |key, value|
-    puts 
+    puts key if 
 end
